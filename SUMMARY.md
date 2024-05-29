@@ -1,14 +1,12 @@
+- [译者的话](README.md)
 
+- [封面](docs/book/00-On-Java-8.md)
 
-### [译者的话](README.md)
+- [前言](docs/book/00-Preface.md)
 
-### [封面](docs/book/00-On-Java-8.md)
+- [简介](docs/book/00-Introduction.md)
 
-### [前言](docs/book/00-Preface.md)
-
-### [简介](docs/book/00-Introduction.md)
-
-### [第一章 对象的概念](docs/book/01-What-is-an-Object.md)
+- [第一章 对象的概念](docs/book/01-What-is-an-Object.md)
   * [抽象](docs/book/01-What-is-an-Object.md#抽象)
   * [接口](docs/book/01-What-is-an-Object.md#接口)
   * [服务提供](docs/book/01-What-is-an-Object.md#服务提供)
@@ -22,14 +20,14 @@
   * [异常处理](docs/book/01-What-is-an-Object.md#异常处理)
   * [本章小结](docs/book/01-What-is-an-Object.md#本章小结)
 
-### [第二章 安装Java和本书用例](docs/book/02-Installing-Java-and-the-Book-Examples.md)
+- [第二章 安装Java和本书用例](docs/book/02-Installing-Java-and-the-Book-Examples.md)
   * [编辑器](docs/book/02-Installing-Java-and-the-Book-Examples.md#编辑器)
   * [Shell](docs/book/02-Installing-Java-and-the-Book-Examples.md#Shell)
   * [Java安装](docs/book/02-Installing-Java-and-the-Book-Examples.md#Java安装)
   * [校验安装](docs/book/02-Installing-Java-and-the-Book-Examples.md#校验安装)
   * [安装和运行代码示例](docs/book/02-Installing-Java-and-the-Book-Examples.md#安装和运行代码示例)
 
-### [第三章 万物皆对象](docs/book/03-Objects-Everywhere.md)
+- [第三章 万物皆对象](docs/book/03-Objects-Everywhere.md)
   * [对象操纵](docs/book/03-Objects-Everywhere.md#对象操纵)
   * [对象创建](docs/book/03-Objects-Everywhere.md#对象创建)
   * [代码注释](docs/book/03-Objects-Everywhere.md#代码注释)
@@ -40,7 +38,7 @@
   * [编码风格](docs/book/03-Objects-Everywhere.md#编码风格)
   * [本章小结](docs/book/03-Objects-Everywhere.md#本章小结)
 
-### [第四章 运算符](docs/book/04-Operators.md)
+- [第四章 运算符](docs/book/04-Operators.md)
   * [开始使用](docs/book/04-Operators.md#开始使用)
   * [优先级](docs/book/04-Operators.md#优先级)
   * [赋值](docs/book/04-Operators.md#赋值)
@@ -59,7 +57,7 @@
   * [运算符总结](docs/book/04-Operators.md#运算符总结)
   * [本章小结](docs/book/04-Operators.md#本章小结)
 
-### [第五章 控制流](docs/book/05-Control-Flow.md)
+- [第五章 控制流](docs/book/05-Control-Flow.md)
   * [true和false](docs/book/05-Control-Flow.md#true和false)
   * [if-else](docs/book/05-Control-Flow.md#if-else)
   * [迭代语句](docs/book/05-Control-Flow.md#迭代语句)
@@ -71,7 +69,7 @@
   * [switch 字符串](docs/book/05-Control-Flow.md#switch-字符串)
   * [本章小结](docs/book/05-Control-Flow.md#本章小结)
 
-### [第六章 初始化和清理](docs/book/06-Housekeeping.md)
+- [第六章 初始化和清理](docs/book/06-Housekeeping.md)
   * [利用构造器保证初始化](docs/book/06-Housekeeping.md#利用构造器保证初始化)
   * [方法重载](docs/book/06-Housekeeping.md#方法重载)
   * [无参构造器](docs/book/06-Housekeeping.md#无参构造器)
@@ -83,14 +81,14 @@
   * [枚举类型](docs/book/06-Housekeeping.md#枚举类型)
   * [本章小结](docs/book/06-Housekeeping.md#本章小结)
 
-### [第七章 封装](docs/book/07-Implementation-Hiding.md)
+- [第七章 封装](docs/book/07-Implementation-Hiding.md)
   * [包的概念](docs/book/07-Implementation-Hiding.md#包的概念)
   * [访问权限修饰符](docs/book/07-Implementation-Hiding.md#访问权限修饰符)
   * [接口和实现](docs/book/07-Implementation-Hiding.md#接口和实现)
   * [类访问权限](docs/book/07-Implementation-Hiding.md#类访问权限)
   * [本章小结](docs/book/07-Implementation-Hiding.md#本章小结)
 
-### [第八章 复用](docs/book/08-Reuse.md)
+- [第八章 复用](docs/book/08-Reuse.md)
   * [组合语法](docs/book/08-Reuse.md#组合语法)
   * [继承语法](docs/book/08-Reuse.md#继承语法)
   * [委托](docs/book/08-Reuse.md#委托)
@@ -102,7 +100,7 @@
   * [类初始化和加载](docs/book/08-Reuse.md#类初始化和加载)
   * [本章小结](docs/book/08-Reuse.md#本章小结)
 
-### [第九章 多态](docs/book/09-Polymorphism.md)
+- [第九章 多态](docs/book/09-Polymorphism.md)
   * [向上转型回顾](docs/book/09-Polymorphism.md#向上转型回顾)
   * [转机](docs/book/09-Polymorphism.md#转机)
   * [构造器和多态](docs/book/09-Polymorphism.md#构造器和多态)
@@ -110,7 +108,7 @@
   * [使用继承设计](docs/book/09-Polymorphism.md#使用继承设计)
   * [本章小结](docs/book/09-Polymorphism.md#本章小结)
 
-### [第十章 接口](docs/book/10-Interfaces.md)
+- [第十章 接口](docs/book/10-Interfaces.md)
   * [抽象类和方法](docs/book/10-Interfaces.md#抽象类和方法)
   * [接口创建](docs/book/10-Interfaces.md#接口创建)
   * [抽象类和接口](docs/book/10-Interfaces.md#抽象类和接口)
@@ -123,7 +121,7 @@
   * [接口和工厂方法模式](docs/book/10-Interfaces.md#接口和工厂方法模式)
   * [本章小结](docs/book/10-Interfaces.md#本章小结)
 
-### [第十一章 内部类](docs/book/11-Inner-Classes.md)
+- [第十一章 内部类](docs/book/11-Inner-Classes.md)
   * [创建内部类](docs/book/11-Inner-Classes.md#创建内部类)
   * [链接外部类](docs/book/11-Inner-Classes.md#链接外部类)
   * [使用 .this 和 .new](docs/book/11-Inner-Classes.md#使用-this-和-new)
@@ -138,7 +136,7 @@
   * [内部类标识符](docs/book/11-Inner-Classes.md#内部类标识符)
   * [本章小结](docs/book/11-Inner-Classes.md#本章小结)
 
-### [第十二章 集合](docs/book/12-Collections.md)
+- [第十二章 集合](docs/book/12-Collections.md)
   * [泛型和类型安全的集合](docs/book/12-Collections.md#泛型和类型安全的集合)
   * [基本概念](docs/book/12-Collections.md#基本概念)
   * [添加元素组](docs/book/12-Collections.md#添加元素组)
@@ -154,7 +152,7 @@
   * [for-in和迭代器](docs/book/12-Collections.md#for-in和迭代器)
   * [本章小结](docs/book/12-Collections.md#本章小结)
 
-### [第十三章 函数式编程](docs/book/13-Functional-Programming.md)
+- [第十三章 函数式编程](docs/book/13-Functional-Programming.md)
   * [新旧对比](docs/book/13-Functional-Programming.md#新旧对比)
   * [Lambda表达式](docs/book/13-Functional-Programming.md#Lambda表达式)
   * [方法引用](docs/book/13-Functional-Programming.md#方法引用)
@@ -166,7 +164,7 @@
   * [纯函数式编程](docs/book/13-Functional-Programming.md#纯函数式编程)
   * [本章小结](docs/book/13-Functional-Programming.md#本章小结)
 
-### [第十四章 流式编程](docs/book/14-Streams.md)
+- [第十四章 流式编程](docs/book/14-Streams.md)
   * [流支持](docs/book/14-Streams.md#流支持)
   * [流创建](docs/book/14-Streams.md#流创建)
   * [中间操作](docs/book/14-Streams.md#中间操作)
@@ -174,7 +172,7 @@
   * [终端操作](docs/book/14-Streams.md#终端操作)
   * [本章小结](docs/book/14-Streams.md#本章小结)
 
-### [第十五章 异常](docs/book/15-Exceptions.md)
+- [第十五章 异常](docs/book/15-Exceptions.md)
   * [异常概念](docs/book/15-Exceptions.md#异常概念)
   * [基本异常](docs/book/15-Exceptions.md#基本异常)
   * [异常捕获](docs/book/15-Exceptions.md#异常捕获)
@@ -192,7 +190,7 @@
   * [本章小结](docs/book/15-Exceptions.md#本章小结)
   * [后记：Exception Bizarro World](docs/book/15-Exceptions.md#后记：Exception-Bizarro-World)
 
-### [第十六章 代码校验](docs/book/16-Validating-Your-Code.md)
+- [第十六章 代码校验](docs/book/16-Validating-Your-Code.md)
   * [测试](docs/book/16-Validating-Your-Code.md#测试)
   * [前置条件](docs/book/16-Validating-Your-Code.md#前置条件)
   * [测试驱动开发](docs/book/16-Validating-Your-Code.md#测试驱动开发)
@@ -208,7 +206,7 @@
   * [持续集成](docs/book/16-Validating-Your-Code.md#持续集成)
   * [本章小结](docs/book/16-Validating-Your-Code.md#本章小结)
 
-### [第十七章 文件](docs/book/17-Files.md)
+- [第十七章 文件](docs/book/17-Files.md)
   * [文件和目录路径](docs/book/17-Files.md#文件和目录路径)
   * [目录](docs/book/17-Files.md#目录)
   * [文件系统](docs/book/17-Files.md#文件系统)
@@ -217,7 +215,7 @@
   * [文件读写](docs/book/17-Files.md#文件读写)
   * [本章小结](docs/book/17-Files.md#本章小结)
 
-### [第十八章 字符串](docs/book/18-Strings.md)
+- [第十八章 字符串](docs/book/18-Strings.md)
   * [字符串的不可变](docs/book/18-Strings.md#字符串的不可变)
   * [+ 的重载与 StringBuilder](docs/book/18-Strings.md#-的重载与-StringBuilder)
   * [意外递归](docs/book/18-Strings.md#意外递归)
@@ -228,7 +226,7 @@
   * [StringTokenizer类](docs/book/18-Strings.md#StringTokenizer类)
   * [本章小结](docs/book/18-Strings.md#本章小结)
 
-### [第十九章 类型信息](docs/book/19-Type-Information.md)
+- [第十九章 类型信息](docs/book/19-Type-Information.md)
   * [为什么需要 RTTI](docs/book/19-Type-Information.md#为什么需要-RTTI)
   * [Class 对象](docs/book/19-Type-Information.md#Class-对象)
   * [类型转换检测](docs/book/19-Type-Information.md#类型转换检测)
@@ -240,7 +238,7 @@
   * [接口和类型](docs/book/19-Type-Information.md#接口和类型)
   * [本章小结](docs/book/19-Type-Information.md#本章小结)
 
-### [第二十章 泛型](docs/book/20-Generics.md)
+- [第二十章 泛型](docs/book/20-Generics.md)
   * [简单泛型](docs/book/20-Generics.md#简单泛型)
   * [泛型接口](docs/book/20-Generics.md#泛型接口)
   * [泛型方法](docs/book/20-Generics.md#泛型方法)
@@ -260,7 +258,7 @@
   * [总结：类型转换真的如此之糟吗？](docs/book/20-Generics.md#总结：类型转换真的如此之糟吗？)
   * [进阶阅读](docs/book/20-Generics.md#进阶阅读)
 
-### [第二十一章 数组](docs/book/21-Arrays.md)
+- [第二十一章 数组](docs/book/21-Arrays.md)
   * [数组特性](docs/book/21-Arrays.md#数组特性)
   * [一等对象](docs/book/21-Arrays.md#一等对象)
   * [返回数组](docs/book/21-Arrays.md#返回数组)
@@ -284,7 +282,7 @@
   * [parallelPrefix并行前缀](docs/book/21-Arrays.md#parallelPrefix并行前缀)
   * [本章小结](docs/book/21-Arrays.md#本章小结)
 
-### [第二十二章 枚举](docs/book/22-Enumerations.md)
+- [第二十二章 枚举](docs/book/22-Enumerations.md)
   * [基本 enum 特性](docs/book/22-Enumerations.md#基本-enum-特性)
   * [方法添加](docs/book/22-Enumerations.md#方法添加)
   * [switch 语句中的 enum](docs/book/22-Enumerations.md#switch-语句中的-enum)
@@ -298,14 +296,14 @@
   * [多路分发](docs/book/22-Enumerations.md#多路分发)
   * [本章小结](docs/book/22-Enumerations.md#本章小结)
 
-### [第二十三章 注解](docs/book/23-Annotations.md)
+- [第二十三章 注解](docs/book/23-Annotations.md)
   * [基本语法](docs/book/23-Annotations.md#基本语法)
   * [编写注解处理器](docs/book/23-Annotations.md#编写注解处理器)
   * [使用javac处理注解](docs/book/23-Annotations.md#使用javac处理注解)
   * [基于注解的单元测试](docs/book/23-Annotations.md#基于注解的单元测试)
   * [本章小结](docs/book/23-Annotations.md#本章小结)
 
-### [第二十四章 并发编程](docs/book/24-Concurrent-Programming.md)
+- [第二十四章 并发编程](docs/book/24-Concurrent-Programming.md)
   * [术语问题](docs/book/24-Concurrent-Programming.md#术语问题)
   * [并发的超能力](docs/book/24-Concurrent-Programming.md#并发的超能力)
   * [并发为速度而生](docs/book/24-Concurrent-Programming.md#并发为速度而生)
@@ -321,7 +319,7 @@
   * [复杂性和代价](docs/book/24-Concurrent-Programming.md#复杂性和代价)
   * [本章小结](docs/book/24-Concurrent-Programming.md#本章小结)
 
-### [第二十五章 设计模式](docs/book/25-Patterns.md)
+- [第二十五章 设计模式](docs/book/25-Patterns.md)
   * [概念](docs/book/25-Patterns.md#概念)
   * [构建应用程序框架](docs/book/25-Patterns.md#构建应用程序框架)
   * [面向实现](docs/book/25-Patterns.md#面向实现)
@@ -338,7 +336,7 @@
   * [RTTI的优劣](docs/book/25-Patterns.md#RTTI的优劣)
   * [本章小结](docs/book/25-Patterns.md#本章小结)
 
-### [附录:成为一名程序员](docs/book/Appendix-Becoming-a-Programmer.md)
+- [附录:成为一名程序员](docs/book/Appendix-Becoming-a-Programmer.md)
   * [如何开始](docs/book/Appendix-Becoming-a-Programmer.md#如何开始)
   * [码农生涯](docs/book/Appendix-Becoming-a-Programmer.md#码农生涯)
   * [百分之五的神话](docs/book/Appendix-Becoming-a-Programmer.md#百分之五的神话)
@@ -346,14 +344,14 @@
   * [像打字般编程](docs/book/Appendix-Becoming-a-Programmer.md#像打字般编程)
   * [做你喜欢的事](docs/book/Appendix-Becoming-a-Programmer.md#做你喜欢的事)
 
-### [附录:静态语言类型检查](docs/book/Appendix-Benefits-and-Costs-of-Static-Type-Checking.md)
+- [附录:静态语言类型检查](docs/book/Appendix-Benefits-and-Costs-of-Static-Type-Checking.md)
   * [前言](docs/book/Appendix-Benefits-and-Costs-of-Static-Type-Checking.md#前言)
   * [静态类型检查和测试](docs/book/Appendix-Benefits-and-Costs-of-Static-Type-Checking.md#静态类型检查和测试)
   * [如何提升打字](docs/book/Appendix-Benefits-and-Costs-of-Static-Type-Checking.md#如何提升打字)
   * [生产力的成本](docs/book/Appendix-Benefits-and-Costs-of-Static-Type-Checking.md#生产力的成本)
   * [静态和动态](docs/book/Appendix-Benefits-and-Costs-of-Static-Type-Checking.md#静态和动态)
 
-### [附录:集合主题](docs/book/Appendix-Collection-Topics.md)
+- [附录:集合主题](docs/book/Appendix-Collection-Topics.md)
   * [示例数据](docs/book/Appendix-Collection-Topics.md#示例数据)
   * [List行为](docs/book/Appendix-Collection-Topics.md#List行为)
   * [Set行为](docs/book/Appendix-Collection-Topics.md#Set行为)
@@ -371,12 +369,12 @@
   * [Java 1.0 / 1.1 的集合类](docs/book/Appendix-Collection-Topics.md#Java-10-11-的集合类)
   * [本章小结](docs/book/Appendix-Collection-Topics.md#本章小结)
 
-### [附录:数据压缩](docs/book/Appendix-Data-Compression.md)
+- [附录:数据压缩](docs/book/Appendix-Data-Compression.md)
   * [使用 Gzip 简单压缩](docs/book/Appendix-Data-Compression.md#使用-Gzip-简单压缩)
   * [使用 zip 多文件存储](docs/book/Appendix-Data-Compression.md#使用-zip-多文件存储)
   * [Java 的 jar](docs/book/Appendix-Data-Compression.md#Java-的-jar)
 
-### [附录:流式IO](docs/book/Appendix-IO-Streams.md)
+- [附录:流式IO](docs/book/Appendix-IO-Streams.md)
   * [输入流类型](docs/book/Appendix-IO-Streams.md#输入流类型)
   * [输出流类型](docs/book/Appendix-IO-Streams.md#输出流类型)
   * [添加属性和有用的接口](docs/book/Appendix-IO-Streams.md#添加属性和有用的接口)
@@ -385,13 +383,13 @@
   * [IO流典型用途](docs/book/Appendix-IO-Streams.md#IO流典型用途)
   * [本章小结](docs/book/Appendix-IO-Streams.md#本章小结)
 
-### [附录:文档注释](docs/book/Appendix-Javadoc.md)
+- [附录:文档注释](docs/book/Appendix-Javadoc.md)
   * [句法规则](docs/book/Appendix-Javadoc.md#句法规则)
   * [内嵌 HTML](docs/book/Appendix-Javadoc.md#内嵌-HTML)
   * [示例标签](docs/book/Appendix-Javadoc.md#示例标签)
   * [文档示例](docs/book/Appendix-Javadoc.md#文档示例)
 
-### [附录:并发底层原理](docs/book/Appendix-Low-Level-Concurrency.md)
+- [附录:并发底层原理](docs/book/Appendix-Low-Level-Concurrency.md)
   * [什么是线程？](docs/book/Appendix-Low-Level-Concurrency.md#什么是线程？)
   * [异常捕获](docs/book/Appendix-Low-Level-Concurrency.md#异常捕获)
   * [资源共享](docs/book/Appendix-Low-Level-Concurrency.md#资源共享)
@@ -401,7 +399,7 @@
   * [库组件](docs/book/Appendix-Low-Level-Concurrency.md#库组件)
   * [本章小结](docs/book/Appendix-Low-Level-Concurrency.md#本章小结)
 
-### [附录:新IO](docs/book/Appendix-New-IO.md)
+- [附录:新IO](docs/book/Appendix-New-IO.md)
   * [ByteBuffer](docs/book/Appendix-New-IO.md#ByteBuffer)
   * [数据转换](docs/book/Appendix-New-IO.md#数据转换)
   * [基本类型获取](docs/book/Appendix-New-IO.md#基本类型获取)
@@ -410,39 +408,39 @@
   * [ 内存映射文件](docs/book/Appendix-New-IO.md#-内存映射文件)
   * [文件锁定](docs/book/Appendix-New-IO.md#文件锁定)
 
-### [附录:对象序列化](docs/book/Appendix-Object-Serialization.md)
+- [附录:对象序列化](docs/book/Appendix-Object-Serialization.md)
   * [查找类](docs/book/Appendix-Object-Serialization.md#查找类)
   * [控制序列化](docs/book/Appendix-Object-Serialization.md#控制序列化)
   * [使用持久化](docs/book/Appendix-Object-Serialization.md#使用持久化)
   * [XML](docs/book/Appendix-Object-Serialization.md#XML)
 
-### [附录:对象传递和返回](docs/book/Appendix-Passing-and-Returning-Objects.md)
+- [附录:对象传递和返回](docs/book/Appendix-Passing-and-Returning-Objects.md)
   * [传递引用](docs/book/Appendix-Passing-and-Returning-Objects.md#传递引用)
   * [本地拷贝](docs/book/Appendix-Passing-and-Returning-Objects.md#本地拷贝)
   * [控制克隆](docs/book/Appendix-Passing-and-Returning-Objects.md#控制克隆)
   * [不可变类](docs/book/Appendix-Passing-and-Returning-Objects.md#不可变类)
   * [本章小结](docs/book/Appendix-Passing-and-Returning-Objects.md#本章小结)
 
-### [附录:编程指南](docs/book/Appendix-Programming-Guidelines.md)
+- [附录:编程指南](docs/book/Appendix-Programming-Guidelines.md)
   * [设计](docs/book/Appendix-Programming-Guidelines.md#设计)
   * [实现](docs/book/Appendix-Programming-Guidelines.md#实现)
 
-### [附录:标准IO](docs/book/Appendix-Standard-IO.md)
+- [附录:标准IO](docs/book/Appendix-Standard-IO.md)
   * [从标准输入中读取](docs/book/Appendix-Standard-IO.md#从标准输入中读取)
   * [将 System.out 转换成 PrintWriter](docs/book/Appendix-Standard-IO.md#将-Systemout-转换成-PrintWriter)
   * [重定向标准 I/O](docs/book/Appendix-Standard-IO.md#重定向标准-IO)
   * [执行控制](docs/book/Appendix-Standard-IO.md#执行控制)
 
-### [附录:补充](docs/book/Appendix-Supplements.md)
+- [附录:补充](docs/book/Appendix-Supplements.md)
   * [可下载的补充](docs/book/Appendix-Supplements.md#可下载的补充)
   * [通过Thinking-in-C来巩固Java基础](docs/book/Appendix-Supplements.md#通过Thinking-in-C来巩固Java基础)
   * [Hand-On Java 电子演示文稿](docs/book/Appendix-Supplements.md#Hand-On-Java-电子演示文稿)
 
-### [附录:C++和Java的优良传统](docs/book/Appendix-The-Positive-Legacy-of-C-plus-plus-and-Java.md)
+- [附录:C++和Java的优良传统](docs/book/Appendix-The-Positive-Legacy-of-C-plus-plus-and-Java.md)
 
-### [附录:理解equals和hashCode方法](docs/book/Appendix-Understanding-equals-and-hashCode.md)
+- [附录:理解equals和hashCode方法](docs/book/Appendix-Understanding-equals-and-hashCode.md)
   * [equals规范](docs/book/Appendix-Understanding-equals-and-hashCode.md#equals规范)
   * [哈希和哈希码](docs/book/Appendix-Understanding-equals-and-hashCode.md#哈希和哈希码)
   * [调优 HashMap](docs/book/Appendix-Understanding-equals-and-hashCode.md#调优-HashMap)
 
-### [词汇表](docs/book/GLOSSARY.md)
+- [词汇表](docs/book/GLOSSARY.md)
